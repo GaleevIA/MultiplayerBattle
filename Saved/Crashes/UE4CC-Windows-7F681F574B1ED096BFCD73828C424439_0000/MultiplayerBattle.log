@@ -1,0 +1,1722 @@
+﻿Log file open, 02/07/22 09:08:09
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MultiplayerBattle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.326805
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:039][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:053][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.07-06.08.10:053][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.07-06.08.10:054][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.07-06.08.10:055][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.07-06.08.10:055][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.07-06.08.10:055][  0]LogHAL: Display: Platform has ~ 16 GB [17128607744 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.07-06.08.10:055][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.07-06.08.10:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.02.07-06.08.10:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.02.07-06.08.10:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Scalability.ini]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.07-06.08.10:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Engine.ini]
+[2022.02.07-06.08.10:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE/MultiplayerBattle/Saved/Config/Windows/Editor.ini]
+[2022.02.07-06.08.10:058][  0]LogInit: Computer: DESKTOP-U4RM9Q6
+[2022.02.07-06.08.10:058][  0]LogInit: User: Iliyas
+[2022.02.07-06.08.10:058][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.07-06.08.10:058][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.07-06.08.10:058][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.02.07-06.08.10:058][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.07-06.08.10:058][  0]LogMemory: Process Physical Memory: 138.52 MB used, 138.52 MB peak
+[2022.02.07-06.08.10:058][  0]LogMemory: Process Virtual Memory: 118.65 MB used, 118.65 MB peak
+[2022.02.07-06.08.10:058][  0]LogMemory: Physical Memory: 7085.92 MB used,  9249.20 MB free, 16335.11 MB total
+[2022.02.07-06.08.10:058][  0]LogMemory: Virtual Memory: 134187696.00 MB used,  30034.31 MB free, 134217728.00 MB total
+[2022.02.07-06.08.10:065][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.07-06.08.10:117][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.07-06.08.10:118][  0]LogInit: Using OS detected language (ru-RU).
+[2022.02.07-06.08.10:118][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.02.07-06.08.10:121][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.02.07-06.08.10:122][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.02.07-06.08.10:122][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.02.07-06.08.10:122][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.02.07-06.08.10:122][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.02.07-06.08.10:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.02.07-06.08.10:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.02.07-06.08.10:123][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.02.07-06.08.10:124][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.07-06.08.10:133][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.08.10:157][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.07-06.08.10:157][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.07-06.08.10:517][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.07-06.08.10:517][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.07-06.08.10:517][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.07-06.08.10:517][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.07-06.08.10:639][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.02.07-06.08.10:639][  0]LogD3D11RHI:       4018/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.07-06.08.10:642][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.07-06.08.10:642][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.07-06.08.10:642][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.07-06.08.10:650][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.07-06.08.10:650][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.07-06.08.10:650][  0]LogWindows: EnumDisplayDevices:
+[2022.02.07-06.08.10:651][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.02.07-06.08.10:651][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2022.02.07-06.08.10:651][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.02.07-06.08.10:651][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.02.07-06.08.10:652][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.07-06.08.10:652][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.02.07-06.08.10:652][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2022.02.07-06.08.10:652][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2022.02.07-06.08.10:652][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.02.07-06.08.10:724][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.07-06.08.10:724][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.07-06.08.10:724][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.07-06.08.10:758][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.07-06.08.10:760][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.07-06.08.11:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.07-06.08.11:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.07-06.08.11:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.07-06.08.11:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.07-06.08.11:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.07-06.08.11:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.07-06.08.11:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.07-06.08.11:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.07-06.08.11:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.07-06.08.11:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.07-06.08.11:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.07-06.08.11:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.07-06.08.11:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.07-06.08.11:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.07-06.08.11:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.07-06.08.11:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.07-06.08.11:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.07-06.08.11:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.07-06.08.11:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.07-06.08.11:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.07-06.08.11:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.07-06.08.11:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.07-06.08.11:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.07-06.08.11:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.07-06.08.11:377][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.07-06.08.11:450][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.07-06.08.11:450][  0]LogShaderCompilers: Guid format shader working directory is 39 characters bigger than the processId version (E:/UE/MultiplayerBattle/Intermediate/Shaders/WorkingDirectory/12856/).
+[2022.02.07-06.08.11:450][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/Temp/UnrealShaderWorkingDir/F15658864B4187E8360246A8E7EB6FF0/'.
+[2022.02.07-06.08.11:450][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.07-06.08.11:450][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.07-06.08.12:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.07-06.08.12:381][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.07-06.08.12:381][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.07-06.08.12:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE/MultiplayerBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.07-06.08.12:382][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.07-06.08.12:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE/MultiplayerBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.07-06.08.12:382][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.07-06.08.12:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.07-06.08.12:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.07-06.08.12:396][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.07-06.08.12:404][  0]LogDerivedDataCache: Speed tests for C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.07-06.08.12:404][  0]LogDerivedDataCache: Display: Performance to C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=705.06MBs, RandomWriteSpeed=149.68MBs. Assigned SpeedClass 'Local'
+[2022.02.07-06.08.12:405][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.07-06.08.12:405][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.07-06.08.12:405][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.07-06.08.12:454][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.07-06.08.12:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.07-06.08.12:485][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.02.07-06.08.12:762][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.07-06.08.12:762][  0]LogInit: Active device profile: [0000021C40D16000][0000021C40304B40 49] Windows
+[2022.02.07-06.08.12:762][  0]LogInit: Profiles: [0000021C40D16000][0000021C40304B40 49] Windows, [0000021C40C9F200][0000021C4030CCC0 49] WindowsNoEditor, [0000021C40D14900][0000021C40310E40 49] WindowsServer, [0000021C40C9D300][0000021C40314FC0 49] WindowsClient, [0000021C40D16C00][0000021C40319140 49] IOS, [0000021C40C9F000][0000021C4031D2C0 49] iPadAir, [0000021C40D15000][0000021C40321440 49] iPadAir2, [0000021C40C3B300][0000021C40329680 49] IPadPro, [0000021C40C3B400][0000021C403096C0 49] iPadAir3, [0000021C40D16800][0000021C4032D800 49] iPadAir4, [0000021C40C3AC00][0000021C40331940 49] iPadMini2, [0000021C40D14E00][0000021C40339AC0 49] iPadMini3, [0000021C40C39D00][0000021C4033DC40 49] iPadMini4, [0000021C40D16D00][0000021C40340100 49] iPadMini5, [0000021C40C4AC00][0000021C403483C0 49] iPhone6, [0000021C40C4AD00][0000021C40344400 49] iPodTouch6, [0000021C40C9D100][0000021C403506C0 49] iPhone7, [0000021C40C9EF00][0000021C4034C700 49] iPodTouch7, [0000021C40C4A600][0000021C40354880 49] iPhone5S, [0000021C40C9CB00][0000021C40358A00 49] iPhone6Plus, [0000021C40C48E00][0000021C4035CB80 49] iPhone6S, [0000021C40C9D900][0000021C40360D00 49] iPhone6SPlus, [0000021C40C4BE00][0000021C40364E80 49] iPhone7Plus, [0000021C40C9E200][0000021C40369000 49] iPhoneSE, [0000021C40C4A700][0000021C4036D180 49] iPhone8, [0000021C40C9FC00][0000021C40371300 49] iPhone8Plus, [0000021C40C4A400][0000021C40375480 49] iPhoneX, [0000021C40C9C900][0000021C40379600 49] iPhoneXS, [0000021C40C48700][0000021C40335740 49] iPhoneXSMax, [0000021C40C9C500][0000021C4037D880 49] iPhoneXR, [0000021C40C4B000][0000021C413919C0 49] iPhone11, [0000021C40C9D200][0000021C41399B40 49] iPhone11Pro, [0000021C40C4A300][0000021C4139DCC0 49] iPhone11ProMax, [0000021C40C9C800][0000021C413A0180 49] iPhoneSE2, [0000021C40C49900][0000021C413A4300 49] iPhone12Mini, [0000021C40C9D700][0000021C413A8480 49] iPhone12, [0000021C40C48400][0000021C413AC600 49] iPhone12Pro, [0000021C40C9DC00][0000021C413B0780 49] iPhone12ProMax, [0000021C40C4A900][0000021C413B4900 49] iPadPro105, [0000021C40C9CC00][0000021C413B8A80 49] iPadPro129, [0000021C40C49700][0000021C413BCC00 49] iPadPro97, [0000021C40C9D000][0000021C413C0D80 49] iPadPro2_129, [0000021C40C49000][0000021C413C4F00 49] iPad5, [0000021C40C9CF00][0000021C413C9080 49] iPad6, [0000021C40D16900][0000021C413CD200 49] iPad7, [0000021C40C49100][0000021C413D1380 49] iPad8, [0000021C40C9DA00][0000021C413D5500 49] iPadPro11, [0000021C40C48F00][0000021C413D9680 49] iPadPro2_11, [0000021C40C9E000][0000021C413957C0 49] iPadPro3_129, [0000021C40C49500][0000021C413DD900 49] iPadPro4_129, [0000021C40C9E800][0000021C413E1A40 49] AppleTV, [0000021C40C4BD00][0000021C413E5B80 49] AppleTV4K, [0000021C40C9D800][0000021C413EDD00 49] TVOS, [0000021C40C4A100][0000021C413F01C0 49] Mac, [0000021C40C9DE00][0000021C413F4340 49] MacClient, [0000021C40C48A00][0000021C413F84C0 49] MacNoEditor, [0000021C40C9FF00][0000021C413FC640 49] MacServer, [0000021C40C4A000][0000021C414007C0 49] Linux, [0000021C40C9C700][0000021C41404940 49] LinuxAArch64, [0000021C40C48900][0000021C41408AC0 49] LinuxNoEditor, [0000021C40C9FD00][0000021C4140CC40 49] LinuxAArch64NoEditor, [0000021C40C49C00][0000021C41410DC0 49] LinuxClient, [0000021C40C9C100][0000021C41414F40 49] LinuxAArch64Client, [0000021C40C4B900][0000021C414190C0 49] LinuxServer, [0000021C40C9D500][0000021C4141D240 49] LinuxAArch64Server, [0000021C40C4B300][0000021C414213C0 49] Android, [0000021C40C9F300][0000021C41425540 49] Android_Low, [0000021C40C4BA00][0000021C414296C0 49] Android_Mid, [0000021C40C9D400][0000021C413E9800 49] Android_High, [0000021C40C4B400][0000021C4142D940 49] Android_Default, [0000021C40C9EA00][0000021C41431A80 49] Android_Adreno4xx, [0000021C40C48200][0000021C41435BC0 49] Android_Adreno5xx_Low, [0000021C40C9E300][0000021C4143DD40 49] Android_Adreno5xx, [0000021C40C4AB00][0000021C41440200 49] Android_Adreno6xx, [0000021C40C9E700][0000021C41444380 49] Android_Adreno6xx_Vulkan, [0000021C40C49D00][0000021C41448500 49] Android_Mali_T6xx, [0000021C40C9EE00][0000021C4144C680 49] Android_Mali_T7xx, [0000021C40C4AF00][0000021C41450800 49] Android_Mali_T8xx, [0000021C40C9FE00][0000021C41454980 49] Android_Mali_G71, [0000021C40C48300][0000021C41458B00 49] Android_Mali_G72, [0000021C40C9DD00][0000021C4145CC80 49] Android_Mali_G72_Vulkan, [0000021C40C4B500][0000021C41460E00 49] Android_Mali_G76, [0000021C40C9CE00][0000021C41464F80 49] Android_Mali_G76_Vulkan, [0000021C40C48600][0000021C41469100 49] Android_Mali_G77, [0000021C40C9E500][0000021C4146D280 49] Android_Mali_G77_Vulkan, [0000021C40C4B200][0000021C41471400 49] Android_Vulkan_SM5, [0000021C40C9EC00][0000021C41475580 49] Android_PowerVR_G6xxx, [0000021C40C49F00][0000021C41479700 49] Android_PowerVR_GT7xxx, [0000021C40C9E600][0000021C41495880 49] Android_PowerVR_GE8xxx, [0000021C40C3B500][0000021C414399C0 49] Android_PowerVR_GM9xxx, [0000021C40D17200][0000021C415AFB00 49] Android_PowerVR_GM9xxx_Vulkan, [0000021C40C39400][0000021C415CBC40 49] Android_TegraK1, [0000021C40D15600][0000021C415DA100 49] Android_Unknown_Vulkan, [0000021C40C39E00][0000021C415DE280 49] Lumin, [0000021C40D17700][0000021C415E2400 49] Lumin_Desktop, [0000021C40C39200][0000021C415E6580 49] HoloLens, 
+[2022.02.07-06.08.12:880][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.07-06.08.12:880][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.07-06.08.12:880][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.07-06.08.12:880][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.07-06.08.12:880][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.07-06.08.12:901][  0]LogNetVersion: MultiplayerBattle 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1953490614)
+[2022.02.07-06.08.13:419][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.07-06.08.13:515][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.096141 seconds
+[2022.02.07-06.08.13:521][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.07-06.08.13:521][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.07-06.08.13:521][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.07-06.08.13:667][  0]LogFMOD: FFMODStudioModule startup
+[2022.02.07-06.08.13:667][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2022.02.07-06.08.13:667][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2022.02.07-06.08.13:671][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2022.02.07-06.08.13:690][  0]LogFMOD: Display: Loaded bank lookup
+[2022.02.07-06.08.13:690][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.02.07-06.08.13:701][  0]LogFMOD: Default sample rate = 48000
+[2022.02.07-06.08.13:701][  0]LogFMOD: System sample rate = 48000
+[2022.02.07-06.08.13:701][  0]LogFMOD: Matching system sample rate 48000
+[2022.02.07-06.08.13:730][  0]LogFMOD: Default sample rate = 48000
+[2022.02.07-06.08.13:730][  0]LogFMOD: System sample rate = 48000
+[2022.02.07-06.08.13:730][  0]LogFMOD: Matching system sample rate 48000
+[2022.02.07-06.08.14:078][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.07-06.08.14:084][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.07-06.08.14:160][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.07-06.08.14:160][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.07-06.08.14:160][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.02.07-06.08.14:190][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.14:190][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.14:194][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.14:210][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.14:217][  0]LogUProjectInfo: Found projects:
+[2022.02.07-06.08.14:485][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.07-06.08.14:509][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.07-06.08.14:510][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.07-06.08.14:569][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.14:578][  0]LogCollectionManager: Loaded 0 collections in 0.000811 seconds
+[2022.02.07-06.08.14:604][  0]LogFileCache: Scanning file cache for directory 'E:/UE/MultiplayerBattle/Saved/Collections/' took 0.00s
+[2022.02.07-06.08.14:604][  0]LogFileCache: Scanning file cache for directory 'E:/UE/MultiplayerBattle/Content/Developers/Iliyas/Collections/' took 0.00s
+[2022.02.07-06.08.14:604][  0]LogFileCache: Scanning file cache for directory 'E:/UE/MultiplayerBattle/Content/Collections/' took 0.00s
+[2022.02.07-06.08.14:604][  0]LogOcInput: OculusInput pre-init called
+[2022.02.07-06.08.14:617][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.07-06.08.14:617][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.07-06.08.14:674][  0]LogEngine: Initializing Engine...
+[2022.02.07-06.08.14:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.07-06.08.14:676][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.07-06.08.14:677][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.07-06.08.14:790][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.07-06.08.14:801][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.07-06.08.14:816][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.07-06.08.14:821][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.07-06.08.14:821][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-06.08.14:821][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-06.08.14:821][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-06.08.14:822][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-06.08.14:822][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-06.08.14:832][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-06.08.14:832][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-06.08.14:848][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.02.07-06.08.14:855][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-06.08.14:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-06.08.14:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-06.08.14:859][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-06.08.14:859][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-06.08.14:859][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-06.08.14:861][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-06.08.14:861][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-06.08.14:861][  0]LogInit: FAudioDevice initialized.
+[2022.02.07-06.08.14:861][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.07-06.08.14:861][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.07-06.08.14:963][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/Iliyas.DESKTOP-U4RM9Q6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.07-06.08.14:964][  0]LogInit: Texture streaming: Enabled
+[2022.02.07-06.08.14:979][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.07-06.08.14:984][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.07-06.08.14:984][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.07-06.08.14:989][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.07-06.08.15:094][  0]LogInit: Transaction tracking system initialized
+[2022.02.07-06.08.15:120][  0]BlueprintLog: New page: Editor Load
+[2022.02.07-06.08.15:205][  0]LocalizationService: Localization service is disabled
+[2022.02.07-06.08.15:234][  0]TimingProfiler: Initialize
+[2022.02.07-06.08.15:235][  0]TimingProfiler: OnSessionChanged
+[2022.02.07-06.08.15:235][  0]LoadingProfiler: Initialize
+[2022.02.07-06.08.15:235][  0]LoadingProfiler: OnSessionChanged
+[2022.02.07-06.08.15:235][  0]NetworkingProfiler: Initialize
+[2022.02.07-06.08.15:235][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.07-06.08.15:235][  0]MemoryProfiler: Initialize
+[2022.02.07-06.08.15:235][  0]MemoryProfiler: OnSessionChanged
+[2022.02.07-06.08.15:391][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.07-06.08.15:391][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.07-06.08.15:434][  0]LogFileCache: Scanning file cache for directory 'E:/UE/MultiplayerBattle/Content/' took 0.02s
+[2022.02.07-06.08.15:434][  0]LogFMOD: FFMODStudioEditorModule startup
+[2022.02.07-06.08.15:791][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.07-06.08.15:798][  0]SourceControl: Source control is disabled
+[2022.02.07-06.08.15:798][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.603
+[2022.02.07-06.08.15:799][  0]Cmd: MAP LOAD FILE="E:/UE/MultiplayerBattle/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-06.08.15:799][  0]LightingResults: New page: Lighting Build
+[2022.02.07-06.08.15:800][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.08.15:800][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.08.15:800][  0]MapCheck: New page: Map Check
+[2022.02.07-06.08.15:800][  0]LightingResults: New page: Lighting Build
+[2022.02.07-06.08.15:807][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.07-06.08.16:678][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.02.07-06.08.16:679][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.02.07-06.08.16:704][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-06.08.16:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.02.07-06.08.16:713][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-06.08.16:715][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,269ms to complete.
+[2022.02.07-06.08.16:715][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.917
+[2022.02.07-06.08.16:719][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.523
+[2022.02.07-06.08.16:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-06.08.16:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-06.08.16:889][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-06.08.16:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-06.08.16:923][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3618 classes and 866 folders.
+[2022.02.07-06.08.16:931][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.07-06.08.16:937][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.07-06.08.16:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.07-06.08.16:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.02.07-06.08.16:939][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.07-06.08.16:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.07-06.08.16:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.02.07-06.08.16:942][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.07-06.08.16:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.07-06.08.16:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.02.07-06.08.16:944][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.07-06.08.16:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.07-06.08.16:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.02.07-06.08.16:946][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.07-06.08.16:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.07-06.08.16:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.02.07-06.08.16:949][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.07-06.08.16:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.07-06.08.16:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.02.07-06.08.16:951][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.07-06.08.16:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.07-06.08.16:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.02.07-06.08.16:954][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.07-06.08.16:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.07-06.08.16:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.07-06.08.16:956][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.07-06.08.16:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.07-06.08.16:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.07-06.08.16:959][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.07-06.08.16:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.07-06.08.16:959][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.07-06.08.16:961][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.07-06.08.16:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.07-06.08.16:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.07-06.08.16:963][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.07-06.08.16:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.07-06.08.16:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.07-06.08.16:966][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.07-06.08.16:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.07-06.08.16:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.02.07-06.08.16:968][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.07-06.08.16:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.07-06.08.16:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.07-06.08.16:970][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.07-06.08.16:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.07-06.08.16:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.07-06.08.16:973][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.07-06.08.16:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.07-06.08.16:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.07-06.08.16:975][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.07-06.08.16:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.07-06.08.16:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.07-06.08.16:977][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.07-06.08.16:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.07-06.08.16:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.07-06.08.16:980][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.07-06.08.16:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.07-06.08.16:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.07-06.08.16:982][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.07-06.08.16:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.07-06.08.16:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.07-06.08.16:985][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.07-06.08.16:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.07-06.08.16:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.07-06.08.16:987][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.07-06.08.16:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.07-06.08.16:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.07-06.08.16:989][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.07-06.08.16:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.07-06.08.16:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.07-06.08.16:992][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.07-06.08.16:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.07-06.08.16:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.07-06.08.16:994][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.07-06.08.16:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.07-06.08.16:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.02.07-06.08.16:997][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.07-06.08.16:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.07-06.08.16:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.07-06.08.16:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.07-06.08.17:158][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.07-06.08.17:159][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.07-06.08.17:339][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.07-06.08.17:341][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.07-06.08.17:348][  0]LogSlate: Took 0.001082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.07-06.08.17:452][  0]LogRenderer: Reallocating scene render targets to support 1100x552 Format 9 NumSamples 1 (Frame:1).
+[2022.02.07-06.08.17:994][  0]LogSlate: Took 0.001387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.07-06.08.18:075][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.07-06.08.18:076][  0]LogLoad: (Engine Initialization) Total time: 9.88 seconds
+[2022.02.07-06.08.18:076][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.07-06.08.18:076][  0]LogInit: First time updating LLM stats...
+[2022.02.07-06.08.18:131][  0]LogAssetRegistry: Asset discovery search completed in 5.6469 seconds
+[2022.02.07-06.08.18:223][  0]LogFMOD: Display: Loaded bank lookup
+[2022.02.07-06.08.18:224][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.02.07-06.08.18:227][  0]LogFMOD: Default sample rate = 48000
+[2022.02.07-06.08.18:228][  0]LogFMOD: System sample rate = 48000
+[2022.02.07-06.08.18:228][  0]LogFMOD: Matching system sample rate 48000
+[2022.02.07-06.08.18:249][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.02.07-06.08.18:396][  0]LogFMOD: Default sample rate = 48000
+[2022.02.07-06.08.18:397][  0]LogFMOD: System sample rate = 48000
+[2022.02.07-06.08.18:397][  0]LogFMOD: Matching system sample rate 48000
+[2022.02.07-06.08.18:413][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.02.07-06.08.18:453][  0]LogFMOD: Warning: Problem loading FMOD Bank: Could not find master bank (Master.bank). Check project settings.
+[2022.02.07-06.08.18:457][  0]LogFMOD: Display: Loaded bank lookup
+[2022.02.07-06.08.18:457][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.02.07-06.08.18:459][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.07-06.08.18:459][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.02.07-06.08.18:488][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.07-06.10.06:572][ 80]LogSlate: Window 'New Level' being destroyed
+[2022.02.07-06.10.06:582][ 80]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.07-06.10.06:601][ 80]LightingResults: New page: Lighting Build
+[2022.02.07-06.10.06:601][ 80]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.02.07-06.10.06:642][ 80]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.10.06:642][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.10.06:643][ 80]MapCheck: New page: Map Check
+[2022.02.07-06.10.06:643][ 80]LightingResults: New page: Lighting Build
+[2022.02.07-06.10.06:654][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-06.10.06:656][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.07-06.10.06:667][ 80]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.02.07-06.10.06:669][ 80]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.02.07-06.10.06:670][ 80]LogAIModule: Creating AISystem for world Untitled_1
+[2022.02.07-06.10.06:735][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.07-06.10.06:741][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.07-06.10.06:751][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.07-06.10.06:752][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,654ms to complete.
+[2022.02.07-06.10.06:752][ 80]LogFileHelpers: Loading map 'Template_Default' took 0.170
+[2022.02.07-06.10.10:218][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.07-06.10.10:830][554]Cmd: DELETE
+[2022.02.07-06.10.10:831][554]Cmd: ACTOR DELETE
+[2022.02.07-06.10.10:834][554]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.07-06.10.10:838][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.07-06.10.10:838][554]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.02.07-06.10.13:570][877]Cmd: DELETE
+[2022.02.07-06.10.13:570][877]Cmd: ACTOR DELETE
+[2022.02.07-06.10.13:571][877]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2022.02.07-06.10.13:575][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.07-06.10.13:575][877]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2022.02.07-06.10.31:871][738]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.07-06.10.31:903][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/UE/MultiplayerBattle/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.07-06.10.31:907][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.02.07-06.10.31:917][738]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/MainMenu730BACF64E9D992E3248A7B6292B0889.tmp' to 'E:/UE/MultiplayerBattle/Content/Maps/MainMenu.umap'
+[2022.02.07-06.10.31:928][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="E:/UE/MultiplayerBattle/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2022.02.07-06.10.31:942][738]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/MainMenu_BuiltData3E1CFEED40620B7861875B8D9E0983A6.tmp' to 'E:/UE/MultiplayerBattle/Content/Maps/MainMenu_BuiltData.uasset'
+[2022.02.07-06.10.31:952][738]LogFileHelpers: Saving map 'MainMenu' took 0.072
+[2022.02.07-06.10.31:956][738]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-06.10.31:956][738]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.07-06.10.31:956][738]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2022.02.07-06.10.40:670][639]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.02.07-06.10.40:676][639]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.02.07-06.10.43:013][839]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.07-06.11.03:814][206]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.07-06.11.03:821][206]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.07-06.11.05:266][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/UE/MultiplayerBattle/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.07-06.11.05:270][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.07-06.11.05:286][366]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/MainMenu6BF89BC94D4001A1183E269D690D6149.tmp' to 'E:/UE/MultiplayerBattle/Content/Maps/MainMenu.umap'
+[2022.02.07-06.11.05:301][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="E:/UE/MultiplayerBattle/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2022.02.07-06.11.05:314][366]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/MainMenu_BuiltData7EB7B4F3450A32B856F0B5A193CD98B7.tmp' to 'E:/UE/MultiplayerBattle/Content/Maps/MainMenu_BuiltData.uasset'
+[2022.02.07-06.11.05:327][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-06.11.05:327][366]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.07-06.11.05:327][366]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2022.02.07-06.11.15:444][526]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.02.07-06.11.15:453][526]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.02.07-06.11.18:373][877]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2022.02.07-06.11.18:378][877]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.02.07-06.11.18:751][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.02.07-06.11.18:926][919]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.07-06.11.20:375][919]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.07-06.12.12:647][181]LogSlate: Window 'MainMenu' being destroyed
+[2022.02.07-06.12.12:655][181]LogSlate: Window 'MainMenu' being destroyed
+[2022.02.07-06.12.12:659][181]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.12.12:659][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.12.12:667][181]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.12.12:667][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.12.18:720][641]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.02.07-06.12.18:732][641]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.02.07-06.12.22:452][ 88]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Button
+[2022.02.07-06.12.22:456][ 88]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.02.07-06.12.27:163][652]LogContentBrowser: Attempting asset rename: MainMenu -> W_MainMenu
+[2022.02.07-06.12.27:182][652]LogMetaData: Removing '/Game/UI/W_MainMenu.SKEL_W_MainMenu_C' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2022.02.07-06.12.27:182][652]LogMetaData: Removing '/Game/UI/W_MainMenu.W_MainMenu_C' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2022.02.07-06.12.27:182][652]LogMetaData: Removing '/Game/UI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2022.02.07-06.12.27:182][652]LogMetaData: Removing '/Game/UI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2022.02.07-06.12.27:182][652]LogMetaData: Removing '/Game/UI/W_MainMenu.W_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2022.02.07-06.12.27:217][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.12.27:223][652]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu255FA34E4C2D0B63C7507BBDDE168CF2.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.12.27:351][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.02.07-06.12.27:393][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.02.07-06.12.27:405][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.07-06.12.27:432][652]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.12.27:432][652]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.14.16:739][180]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.17.05:073][718]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.17.05:073][718]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.17.14:313][518]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-06.17.51:054][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-06.17.58:307][749]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.07-06.18.26:991][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.18.26:991][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.18.31:138][225]BlueprintLog: New page: Compile W_Button
+[2022.02.07-06.18.31:161][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.07-06.18.31:672][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Button" FILE="E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset" SILENT=true
+[2022.02.07-06.18.31:677][263]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_Button22DF41ED40FB325D6016CB9F6779CAB0.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset'
+[2022.02.07-06.18.31:690][263]AssetCheck: New page: Asset Save: W_Button
+[2022.02.07-06.18.31:690][263]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.18.53:623][191]LogSlate: Took 0.001139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.07-06.19.12:594][744]LogSlate: Took 0.001271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.07-06.19.34:206][899]BlueprintLog: New page: Compile W_Button
+[2022.02.07-06.19.34:238][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.02.07-06.19.34:940][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Button" FILE="E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset" SILENT=true
+[2022.02.07-06.19.34:946][974]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_Button7F6047B349E4961908EAFCA80463F18C.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset'
+[2022.02.07-06.19.34:959][974]AssetCheck: New page: Asset Save: W_Button
+[2022.02.07-06.19.34:959][974]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.19.51:875][961]BlueprintLog: New page: Compile W_Button
+[2022.02.07-06.19.51:905][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.02.07-06.19.52:407][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Button" FILE="E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset" SILENT=true
+[2022.02.07-06.19.52:412][ 11]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_Button34B7342248DC08029850B688914E0B33.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset'
+[2022.02.07-06.19.52:425][ 11]AssetCheck: New page: Asset Save: W_Button
+[2022.02.07-06.19.52:425][ 11]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.19.57:369][591]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.19.57:369][591]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.20.00:110][919]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.20.00:110][919]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.20.01:443][ 64]BlueprintLog: New page: Compile W_Button
+[2022.02.07-06.20.01:469][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.02.07-06.20.01:923][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Button" FILE="E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset" SILENT=true
+[2022.02.07-06.20.01:929][109]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_Button5A052C9A4D4EAE40C80BBE90283F74F2.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset'
+[2022.02.07-06.20.01:941][109]AssetCheck: New page: Asset Save: W_Button
+[2022.02.07-06.20.01:941][109]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.21.02:157][463]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.21.53:233][ 40]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:233][ 40]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:234][ 40]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:261][ 41]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:262][ 41]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:262][ 41]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:279][ 42]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:290][ 43]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:309][ 45]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:318][ 46]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:337][ 48]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:347][ 49]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:356][ 50]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:356][ 50]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:356][ 50]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:366][ 51]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:368][ 51]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:377][ 52]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:378][ 52]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:388][ 53]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:399][ 54]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:409][ 55]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:410][ 55]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:420][ 56]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:429][ 57]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:430][ 57]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:440][ 58]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:441][ 58]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:450][ 59]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:460][ 60]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:462][ 60]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:471][ 61]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:472][ 61]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:482][ 62]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:492][ 63]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:493][ 63]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:502][ 64]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:504][ 64]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:513][ 65]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:524][ 66]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:533][ 67]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:553][ 69]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:562][ 70]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:583][ 72]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:592][ 73]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:611][ 75]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:621][ 76]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:641][ 78]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:652][ 79]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:671][ 81]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:680][ 82]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:699][ 84]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:709][ 85]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:727][ 87]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:737][ 88]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:757][ 90]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:767][ 91]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:787][ 93]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:787][ 93]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button.
+[2022.02.07-06.21.53:804][ 93]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_0.
+[2022.02.07-06.21.54:874][187]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_1.
+[2022.02.07-06.21.54:875][187]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_2.
+[2022.02.07-06.21.54:876][187]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_3.
+[2022.02.07-06.21.54:895][188]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_4.
+[2022.02.07-06.21.54:906][189]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_5.
+[2022.02.07-06.21.54:907][189]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_6.
+[2022.02.07-06.21.54:917][190]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_7.
+[2022.02.07-06.21.54:936][192]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_8.
+[2022.02.07-06.21.54:946][193]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_9.
+[2022.02.07-06.21.54:965][195]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_10.
+[2022.02.07-06.21.54:975][196]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_11.
+[2022.02.07-06.21.54:995][198]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_12.
+[2022.02.07-06.21.55:004][199]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_13.
+[2022.02.07-06.21.55:024][201]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_14.
+[2022.02.07-06.21.55:033][202]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_15.
+[2022.02.07-06.21.55:033][202]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_16.
+[2022.02.07-06.21.55:033][202]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_17.
+[2022.02.07-06.21.55:035][202]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_18.
+[2022.02.07-06.21.55:061][203]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_19.
+[2022.02.07-06.21.55:073][204]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_20.
+[2022.02.07-06.21.55:082][205]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_21.
+[2022.02.07-06.21.55:101][207]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_22.
+[2022.02.07-06.21.55:112][208]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_23.
+[2022.02.07-06.21.55:131][210]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_24.
+[2022.02.07-06.21.55:140][211]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_25.
+[2022.02.07-06.21.55:159][213]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_26.
+[2022.02.07-06.21.55:169][214]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_27.
+[2022.02.07-06.21.55:189][216]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_28.
+[2022.02.07-06.21.55:191][216]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_29.
+[2022.02.07-06.21.55:200][217]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_30.
+[2022.02.07-06.21.55:201][217]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_31.
+[2022.02.07-06.21.55:212][218]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_32.
+[2022.02.07-06.21.55:222][219]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_33.
+[2022.02.07-06.21.55:224][219]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_34.
+[2022.02.07-06.21.55:233][220]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_35.
+[2022.02.07-06.21.55:234][220]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_36.
+[2022.02.07-06.21.55:243][221]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_37.
+[2022.02.07-06.21.55:244][221]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_38.
+[2022.02.07-06.21.55:254][222]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_39.
+[2022.02.07-06.21.55:254][222]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_40.
+[2022.02.07-06.21.55:255][222]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_41.
+[2022.02.07-06.21.55:256][222]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_42.
+[2022.02.07-06.21.55:265][223]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_43.
+[2022.02.07-06.21.55:267][223]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_44.
+[2022.02.07-06.21.55:276][224]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_45.
+[2022.02.07-06.21.55:295][225]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_46.
+[2022.02.07-06.21.55:305][226]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_47.
+[2022.02.07-06.21.55:325][228]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_48.
+[2022.02.07-06.21.55:335][229]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_49.
+[2022.02.07-06.21.55:354][231]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_50.
+[2022.02.07-06.21.55:364][232]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_51.
+[2022.02.07-06.21.55:383][234]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_52.
+[2022.02.07-06.21.55:393][235]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_53.
+[2022.02.07-06.21.55:413][237]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_54.
+[2022.02.07-06.21.55:423][238]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_55.
+[2022.02.07-06.21.55:443][240]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_56.
+[2022.02.07-06.21.55:452][241]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_57.
+[2022.02.07-06.21.55:471][243]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_58.
+[2022.02.07-06.21.55:481][244]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_59.
+[2022.02.07-06.21.55:500][246]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_60.
+[2022.02.07-06.21.55:510][247]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_61.
+[2022.02.07-06.21.55:528][249]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_62.
+[2022.02.07-06.21.55:538][250]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_63.
+[2022.02.07-06.21.55:557][252]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_64.
+[2022.02.07-06.21.55:568][253]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_65.
+[2022.02.07-06.21.55:587][255]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_66.
+[2022.02.07-06.21.56:760][366]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_67.
+[2022.02.07-06.21.56:760][366]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_68.
+[2022.02.07-06.21.56:762][366]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_69.
+[2022.02.07-06.21.56:778][367]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_70.
+[2022.02.07-06.21.56:780][367]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_71.
+[2022.02.07-06.21.56:790][368]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_72.
+[2022.02.07-06.21.56:791][368]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_73.
+[2022.02.07-06.21.56:791][368]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_74.
+[2022.02.07-06.21.56:812][369]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_75.
+[2022.02.07-06.21.56:814][369]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_76.
+[2022.02.07-06.21.56:823][370]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_77.
+[2022.02.07-06.21.56:824][370]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_78.
+[2022.02.07-06.21.56:834][371]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_79.
+[2022.02.07-06.21.56:844][372]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_80.
+[2022.02.07-06.21.56:844][372]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_81.
+[2022.02.07-06.21.56:844][372]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_82.
+[2022.02.07-06.21.56:846][372]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_83.
+[2022.02.07-06.21.56:856][373]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_84.
+[2022.02.07-06.21.56:874][375]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_85.
+[2022.02.07-06.21.56:884][376]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_86.
+[2022.02.07-06.21.56:904][378]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_87.
+[2022.02.07-06.21.56:914][379]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_88.
+[2022.02.07-06.21.56:933][381]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_89.
+[2022.02.07-06.21.56:944][382]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_90.
+[2022.02.07-06.21.56:962][384]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_91.
+[2022.02.07-06.21.56:972][385]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_92.
+[2022.02.07-06.21.56:991][387]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_93.
+[2022.02.07-06.21.57:001][388]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_94.
+[2022.02.07-06.21.57:022][390]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_95.
+[2022.02.07-06.21.57:032][391]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_96.
+[2022.02.07-06.21.57:052][393]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_97.
+[2022.02.07-06.21.57:062][394]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_98.
+[2022.02.07-06.21.57:082][396]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_99.
+[2022.02.07-06.21.57:093][397]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_100.
+[2022.02.07-06.21.57:112][399]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_101.
+[2022.02.07-06.21.57:121][400]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_102.
+[2022.02.07-06.21.57:141][402]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_103.
+[2022.02.07-06.21.57:151][403]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_104.
+[2022.02.07-06.21.57:153][403]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_105.
+[2022.02.07-06.21.57:162][404]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_106.
+[2022.02.07-06.21.57:162][404]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_107.
+[2022.02.07-06.21.57:162][404]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_108.
+[2022.02.07-06.21.57:173][405]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_109.
+[2022.02.07-06.21.57:183][406]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_110.
+[2022.02.07-06.21.57:201][408]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_111.
+[2022.02.07-06.21.57:203][408]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_112.
+[2022.02.07-06.21.57:212][409]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_113.
+[2022.02.07-06.21.57:213][409]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_114.
+[2022.02.07-06.21.57:232][411]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_115.
+[2022.02.07-06.21.57:243][412]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_116.
+[2022.02.07-06.21.57:262][414]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_117.
+[2022.02.07-06.21.57:273][415]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_118.
+[2022.02.07-06.21.57:292][417]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_119.
+[2022.02.07-06.21.57:302][418]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_120.
+[2022.02.07-06.21.57:322][420]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_121.
+[2022.02.07-06.21.57:332][421]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_122.
+[2022.02.07-06.21.57:351][423]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_123.
+[2022.02.07-06.21.57:361][424]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_124.
+[2022.02.07-06.21.57:382][426]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_125.
+[2022.02.07-06.21.57:392][427]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_126.
+[2022.02.07-06.21.57:411][429]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_127.
+[2022.02.07-06.21.57:412][429]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_128.
+[2022.02.07-06.21.57:413][429]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_129.
+[2022.02.07-06.21.57:422][430]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_130.
+[2022.02.07-06.21.57:424][430]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_131.
+[2022.02.07-06.21.57:433][431]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_132.
+[2022.02.07-06.21.57:444][432]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_133.
+[2022.02.07-06.21.57:454][433]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_134.
+[2022.02.07-06.21.57:473][435]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_135.
+[2022.02.07-06.21.57:482][436]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_136.
+[2022.02.07-06.21.57:484][436]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_137.
+[2022.02.07-06.21.57:494][437]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_138.
+[2022.02.07-06.21.57:504][438]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_139.
+[2022.02.07-06.21.57:505][438]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_140.
+[2022.02.07-06.21.57:516][439]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_141.
+[2022.02.07-06.21.57:535][441]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_142.
+[2022.02.07-06.21.57:536][441]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_143.
+[2022.02.07-06.21.57:545][442]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_144.
+[2022.02.07-06.21.57:547][442]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_145.
+[2022.02.07-06.21.57:556][443]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_146.
+[2022.02.07-06.21.57:567][444]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_147.
+[2022.02.07-06.21.57:577][445]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_148.
+[2022.02.07-06.21.57:587][446]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_149.
+[2022.02.07-06.21.57:597][447]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_150.
+[2022.02.07-06.21.57:599][447]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_151.
+[2022.02.07-06.21.57:608][448]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_152.
+[2022.02.07-06.21.57:609][448]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_153.
+[2022.02.07-06.21.57:629][450]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_154.
+[2022.02.07-06.21.57:630][450]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_155.
+[2022.02.07-06.21.57:640][451]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_156.
+[2022.02.07-06.21.57:641][451]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_157.
+[2022.02.07-06.21.57:660][453]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_158.
+[2022.02.07-06.21.57:670][454]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_159.
+[2022.02.07-06.21.57:671][454]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_160.
+[2022.02.07-06.21.57:681][455]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_161.
+[2022.02.07-06.21.57:692][456]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_162.
+[2022.02.07-06.21.57:701][457]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_163.
+[2022.02.07-06.21.57:710][458]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_164.
+[2022.02.07-06.21.57:721][459]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_165.
+[2022.02.07-06.21.57:722][459]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_166.
+[2022.02.07-06.21.57:731][460]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_167.
+[2022.02.07-06.21.57:731][460]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_168.
+[2022.02.07-06.21.57:731][460]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_169.
+[2022.02.07-06.21.57:733][460]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_170.
+[2022.02.07-06.21.57:752][462]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_171.
+[2022.02.07-06.21.57:761][463]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_172.
+[2022.02.07-06.21.57:780][465]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_173.
+[2022.02.07-06.21.57:791][466]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_174.
+[2022.02.07-06.21.57:810][468]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_175.
+[2022.02.07-06.21.57:820][469]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_176.
+[2022.02.07-06.21.57:839][471]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_177.
+[2022.02.07-06.21.57:849][472]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_178.
+[2022.02.07-06.21.57:868][474]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_179.
+[2022.02.07-06.21.57:877][475]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_180.
+[2022.02.07-06.21.57:897][477]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_181.
+[2022.02.07-06.21.57:906][478]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_182.
+[2022.02.07-06.21.57:926][480]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_183.
+[2022.02.07-06.21.57:935][481]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_184.
+[2022.02.07-06.21.57:954][483]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_185.
+[2022.02.07-06.21.57:964][484]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_186.
+[2022.02.07-06.21.57:983][486]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_187.
+[2022.02.07-06.21.57:993][487]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_188.
+[2022.02.07-06.21.58:002][488]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_189.
+[2022.02.07-06.21.58:012][489]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_190.
+[2022.02.07-06.21.58:013][489]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_191.
+[2022.02.07-06.21.58:023][490]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_192.
+[2022.02.07-06.21.58:024][490]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_193.
+[2022.02.07-06.21.58:045][491]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_194.
+[2022.02.07-06.21.58:056][492]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_195.
+[2022.02.07-06.21.58:066][493]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_196.
+[2022.02.07-06.21.58:085][495]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_197.
+[2022.02.07-06.21.58:095][496]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_198.
+[2022.02.07-06.21.58:114][498]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_199.
+[2022.02.07-06.21.58:123][499]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_200.
+[2022.02.07-06.21.58:143][501]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_201.
+[2022.02.07-06.21.58:152][502]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_202.
+[2022.02.07-06.21.58:171][504]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_203.
+[2022.02.07-06.21.58:182][505]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_204.
+[2022.02.07-06.21.58:202][507]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_205.
+[2022.02.07-06.21.58:211][508]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_206.
+[2022.02.07-06.21.58:231][510]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_207.
+[2022.02.07-06.21.58:241][511]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_208.
+[2022.02.07-06.21.58:261][513]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_209.
+[2022.02.07-06.21.58:270][514]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_210.
+[2022.02.07-06.21.58:290][516]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_211.
+[2022.02.07-06.21.58:299][517]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_212.
+[2022.02.07-06.21.58:318][519]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_213.
+[2022.02.07-06.21.58:328][520]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_214.
+[2022.02.07-06.21.58:347][522]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_215.
+[2022.02.07-06.21.58:357][523]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_216.
+[2022.02.07-06.21.58:377][525]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_217.
+[2022.02.07-06.21.58:387][526]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_218.
+[2022.02.07-06.21.58:406][528]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_219.
+[2022.02.07-06.21.58:407][528]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_220.
+[2022.02.07-06.21.58:417][529]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_221.
+[2022.02.07-06.21.58:418][529]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_222.
+[2022.02.07-06.21.58:427][530]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_223.
+[2022.02.07-06.21.58:439][531]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_224.
+[2022.02.07-06.21.58:440][531]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_225.
+[2022.02.07-06.21.58:449][532]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_226.
+[2022.02.07-06.21.58:451][532]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_227.
+[2022.02.07-06.21.58:460][533]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_228.
+[2022.02.07-06.21.58:461][533]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_229.
+[2022.02.07-06.21.58:471][534]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_230.
+[2022.02.07-06.21.58:473][534]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_231.
+[2022.02.07-06.21.58:482][535]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_232.
+[2022.02.07-06.21.58:483][535]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_233.
+[2022.02.07-06.21.58:493][536]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_234.
+[2022.02.07-06.21.58:503][537]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_235.
+[2022.02.07-06.21.58:504][537]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_236.
+[2022.02.07-06.21.58:514][538]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_237.
+[2022.02.07-06.21.58:515][538]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_238.
+[2022.02.07-06.21.58:524][539]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_239.
+[2022.02.07-06.21.58:534][540]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_240.
+[2022.02.07-06.21.58:536][540]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_241.
+[2022.02.07-06.21.58:545][541]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_242.
+[2022.02.07-06.21.58:546][541]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_243.
+[2022.02.07-06.21.58:565][543]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_244.
+[2022.02.07-06.21.58:567][543]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_245.
+[2022.02.07-06.21.58:577][544]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_246.
+[2022.02.07-06.21.58:596][546]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_247.
+[2022.02.07-06.21.58:606][547]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_248.
+[2022.02.07-06.21.58:625][549]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_249.
+[2022.02.07-06.21.58:635][550]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_250.
+[2022.02.07-06.21.58:653][552]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_251.
+[2022.02.07-06.21.58:663][553]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_252.
+[2022.02.07-06.21.58:682][555]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_253.
+[2022.02.07-06.21.58:692][556]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_254.
+[2022.02.07-06.21.58:712][558]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_255.
+[2022.02.07-06.21.58:721][559]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_256.
+[2022.02.07-06.21.58:740][561]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_257.
+[2022.02.07-06.21.58:750][562]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_258.
+[2022.02.07-06.21.58:769][564]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_259.
+[2022.02.07-06.21.58:779][565]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_260.
+[2022.02.07-06.21.58:798][567]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_261.
+[2022.02.07-06.21.58:808][568]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_262.
+[2022.02.07-06.21.58:828][570]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_263.
+[2022.02.07-06.21.58:838][571]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_264.
+[2022.02.07-06.21.58:856][573]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_265.
+[2022.02.07-06.21.58:867][574]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_266.
+[2022.02.07-06.21.58:886][576]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_267.
+[2022.02.07-06.21.58:896][577]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_268.
+[2022.02.07-06.21.58:915][579]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_269.
+[2022.02.07-06.21.58:916][579]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_270.
+[2022.02.07-06.21.58:926][580]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_271.
+[2022.02.07-06.21.58:927][580]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_272.
+[2022.02.07-06.21.58:947][582]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_273.
+[2022.02.07-06.21.58:957][583]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_274.
+[2022.02.07-06.21.58:975][585]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_275.
+[2022.02.07-06.21.58:985][586]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_276.
+[2022.02.07-06.21.59:003][588]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_277.
+[2022.02.07-06.21.59:005][588]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_278.
+[2022.02.07-06.21.59:014][589]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_279.
+[2022.02.07-06.21.59:016][589]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_280.
+[2022.02.07-06.21.59:044][590]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_281.
+[2022.02.07-06.21.59:056][591]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_282.
+[2022.02.07-06.21.59:065][592]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_283.
+[2022.02.07-06.21.59:065][592]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_284.
+[2022.02.07-06.21.59:066][592]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_285.
+[2022.02.07-06.21.59:067][592]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_286.
+[2022.02.07-06.21.59:086][594]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_287.
+[2022.02.07-06.21.59:096][595]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_288.
+[2022.02.07-06.21.59:116][597]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_289.
+[2022.02.07-06.21.59:126][598]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_290.
+[2022.02.07-06.21.59:145][600]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_291.
+[2022.02.07-06.21.59:146][600]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_292.
+[2022.02.07-06.21.59:156][601]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_293.
+[2022.02.07-06.21.59:158][601]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_294.
+[2022.02.07-06.21.59:177][603]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_295.
+[2022.02.07-06.21.59:188][604]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_296.
+[2022.02.07-06.21.59:188][604]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_297.
+[2022.02.07-06.21.59:198][605]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_298.
+[2022.02.07-06.21.59:209][606]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_299.
+[2022.02.07-06.21.59:219][607]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_300.
+[2022.02.07-06.21.59:238][609]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_301.
+[2022.02.07-06.21.59:248][610]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_302.
+[2022.02.07-06.21.59:268][612]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_303.
+[2022.02.07-06.21.59:277][613]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_304.
+[2022.02.07-06.21.59:297][615]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_305.
+[2022.02.07-06.21.59:307][616]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_306.
+[2022.02.07-06.21.59:326][618]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_307.
+[2022.02.07-06.21.59:336][619]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_308.
+[2022.02.07-06.21.59:356][621]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_309.
+[2022.02.07-06.21.59:366][622]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_310.
+[2022.02.07-06.21.59:386][624]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_311.
+[2022.02.07-06.21.59:395][625]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_312.
+[2022.02.07-06.21.59:415][627]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_313.
+[2022.02.07-06.21.59:425][628]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_314.
+[2022.02.07-06.21.59:444][630]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_315.
+[2022.02.07-06.21.59:453][631]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_316.
+[2022.02.07-06.21.59:472][633]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_317.
+[2022.02.07-06.21.59:482][634]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_318.
+[2022.02.07-06.21.59:500][636]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_319.
+[2022.02.07-06.21.59:510][637]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_320.
+[2022.02.07-06.21.59:528][639]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_321.
+[2022.02.07-06.21.59:538][640]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_322.
+[2022.02.07-06.21.59:557][642]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_323.
+[2022.02.07-06.21.59:567][643]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_324.
+[2022.02.07-06.21.59:588][645]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_325.
+[2022.02.07-06.21.59:599][646]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_326.
+[2022.02.07-06.21.59:618][648]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_327.
+[2022.02.07-06.21.59:628][649]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_328.
+[2022.02.07-06.21.59:647][651]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_329.
+[2022.02.07-06.21.59:658][652]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_330.
+[2022.02.07-06.21.59:677][654]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_331.
+[2022.02.07-06.21.59:687][655]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_332.
+[2022.02.07-06.21.59:706][657]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_333.
+[2022.02.07-06.21.59:707][657]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_334.
+[2022.02.07-06.21.59:717][658]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_335.
+[2022.02.07-06.21.59:718][658]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_336.
+[2022.02.07-06.21.59:738][660]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_337.
+[2022.02.07-06.21.59:748][661]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_338.
+[2022.02.07-06.21.59:757][662]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_339.
+[2022.02.07-06.21.59:767][663]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_340.
+[2022.02.07-06.21.59:769][663]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_341.
+[2022.02.07-06.21.59:778][664]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_342.
+[2022.02.07-06.21.59:798][666]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_343.
+[2022.02.07-06.21.59:807][667]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_344.
+[2022.02.07-06.21.59:827][669]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_345.
+[2022.02.07-06.21.59:837][670]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_346.
+[2022.02.07-06.21.59:857][672]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_347.
+[2022.02.07-06.21.59:867][673]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_348.
+[2022.02.07-06.21.59:886][675]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_349.
+[2022.02.07-06.21.59:896][676]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_350.
+[2022.02.07-06.21.59:915][678]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_351.
+[2022.02.07-06.21.59:925][679]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_352.
+[2022.02.07-06.21.59:945][681]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_353.
+[2022.02.07-06.21.59:955][682]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_354.
+[2022.02.07-06.21.59:974][684]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_355.
+[2022.02.07-06.21.59:984][685]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_356.
+[2022.02.07-06.22.00:003][687]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_357.
+[2022.02.07-06.22.00:013][688]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_358.
+[2022.02.07-06.22.00:033][690]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_359.
+[2022.02.07-06.22.00:043][691]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_360.
+[2022.02.07-06.22.00:063][693]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_361.
+[2022.02.07-06.22.00:072][694]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_362.
+[2022.02.07-06.22.00:091][696]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_363.
+[2022.02.07-06.22.00:101][697]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_364.
+[2022.02.07-06.22.00:120][699]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_365.
+[2022.02.07-06.22.00:131][700]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_366.
+[2022.02.07-06.22.00:150][702]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_367.
+[2022.02.07-06.22.00:159][703]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_368.
+[2022.02.07-06.22.00:179][705]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_369.
+[2022.02.07-06.22.00:189][706]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_370.
+[2022.02.07-06.22.00:208][708]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_371.
+[2022.02.07-06.22.00:218][709]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_372.
+[2022.02.07-06.22.00:237][711]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_373.
+[2022.02.07-06.22.00:247][712]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_374.
+[2022.02.07-06.22.00:256][713]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_375.
+[2022.02.07-06.22.00:256][713]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_376.
+[2022.02.07-06.22.00:275][713]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_377.
+[2022.02.07-06.22.02:326][899]LogSlate: Took 0.010431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.02.07-06.22.03:516][  9]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_378.
+[2022.02.07-06.22.03:516][  9]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_379.
+[2022.02.07-06.22.03:544][ 10]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_380.
+[2022.02.07-06.22.03:545][ 10]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_381.
+[2022.02.07-06.22.03:545][ 10]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_382.
+[2022.02.07-06.22.03:562][ 11]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_383.
+[2022.02.07-06.22.03:564][ 11]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_384.
+[2022.02.07-06.22.03:573][ 12]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_385.
+[2022.02.07-06.22.03:575][ 12]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_386.
+[2022.02.07-06.22.03:584][ 13]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_387.
+[2022.02.07-06.22.03:584][ 13]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_388.
+[2022.02.07-06.22.03:584][ 13]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_389.
+[2022.02.07-06.22.03:595][ 14]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_390.
+[2022.02.07-06.22.03:596][ 14]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_391.
+[2022.02.07-06.22.03:606][ 15]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_392.
+[2022.02.07-06.22.03:607][ 15]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_393.
+[2022.02.07-06.22.03:616][ 16]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_394.
+[2022.02.07-06.22.03:627][ 17]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_395.
+[2022.02.07-06.22.03:629][ 17]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_396.
+[2022.02.07-06.22.03:629][ 17]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_397.
+[2022.02.07-06.22.03:629][ 17]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_398.
+[2022.02.07-06.22.03:639][ 18]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_399.
+[2022.02.07-06.22.03:640][ 18]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_400.
+[2022.02.07-06.22.03:661][ 19]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_401.
+[2022.02.07-06.22.03:661][ 19]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_402.
+[2022.02.07-06.22.03:661][ 19]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_403.
+[2022.02.07-06.22.03:678][ 20]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_404.
+[2022.02.07-06.22.03:680][ 20]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_405.
+[2022.02.07-06.22.03:695][ 21]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_406.
+[2022.02.07-06.22.03:697][ 21]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_407.
+[2022.02.07-06.22.03:722][ 23]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_408.
+[2022.02.07-06.22.03:732][ 24]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_409.
+[2022.02.07-06.22.03:751][ 26]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_410.
+[2022.02.07-06.22.03:761][ 27]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_411.
+[2022.02.07-06.22.03:781][ 29]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_412.
+[2022.02.07-06.22.03:790][ 30]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_413.
+[2022.02.07-06.22.03:810][ 32]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_414.
+[2022.02.07-06.22.03:819][ 33]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_415.
+[2022.02.07-06.22.03:839][ 35]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_416.
+[2022.02.07-06.22.03:848][ 36]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_417.
+[2022.02.07-06.22.03:849][ 36]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_418.
+[2022.02.07-06.22.03:869][ 38]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_419.
+[2022.02.07-06.22.03:870][ 38]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_420.
+[2022.02.07-06.22.03:879][ 39]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_421.
+[2022.02.07-06.22.03:881][ 39]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_422.
+[2022.02.07-06.22.03:895][ 40]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_423.
+[2022.02.07-06.22.03:906][ 41]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_424.
+[2022.02.07-06.22.03:907][ 41]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_425.
+[2022.02.07-06.22.03:916][ 42]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_426.
+[2022.02.07-06.22.03:918][ 42]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_427.
+[2022.02.07-06.22.03:944][ 43]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_428.
+[2022.02.07-06.22.03:944][ 43]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_429.
+[2022.02.07-06.22.03:944][ 43]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_430.
+[2022.02.07-06.22.03:955][ 44]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_431.
+[2022.02.07-06.22.03:965][ 45]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_432.
+[2022.02.07-06.22.03:984][ 47]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_433.
+[2022.02.07-06.22.03:994][ 48]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_434.
+[2022.02.07-06.22.04:013][ 50]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_435.
+[2022.02.07-06.22.04:022][ 51]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_436.
+[2022.02.07-06.22.04:042][ 53]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_437.
+[2022.02.07-06.22.04:052][ 54]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_438.
+[2022.02.07-06.22.04:070][ 56]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_439.
+[2022.02.07-06.22.04:071][ 56]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_440.
+[2022.02.07-06.22.04:080][ 57]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_441.
+[2022.02.07-06.22.04:082][ 57]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_442.
+[2022.02.07-06.22.04:091][ 58]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_443.
+[2022.02.07-06.22.04:112][ 59]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_444.
+[2022.02.07-06.22.04:113][ 59]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_445.
+[2022.02.07-06.22.04:122][ 60]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_446.
+[2022.02.07-06.22.04:124][ 60]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_447.
+[2022.02.07-06.22.04:133][ 61]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_448.
+[2022.02.07-06.22.04:160][ 62]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_449.
+[2022.02.07-06.22.04:161][ 62]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_450.
+[2022.02.07-06.22.04:161][ 62]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_451.
+[2022.02.07-06.22.04:162][ 62]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_452.
+[2022.02.07-06.22.04:171][ 63]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_453.
+[2022.02.07-06.22.04:173][ 63]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_454.
+[2022.02.07-06.22.04:191][ 65]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_455.
+[2022.02.07-06.22.04:192][ 65]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_456.
+[2022.02.07-06.22.04:202][ 66]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_457.
+[2022.02.07-06.22.04:203][ 66]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_458.
+[2022.02.07-06.22.04:212][ 67]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_459.
+[2022.02.07-06.22.04:223][ 68]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_460.
+[2022.02.07-06.22.04:232][ 69]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_461.
+[2022.02.07-06.22.04:234][ 69]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_462.
+[2022.02.07-06.22.04:243][ 70]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_463.
+[2022.02.07-06.22.04:253][ 71]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_464.
+[2022.02.07-06.22.04:255][ 71]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_465.
+[2022.02.07-06.22.04:264][ 72]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_466.
+[2022.02.07-06.22.04:283][ 74]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_467.
+[2022.02.07-06.22.04:293][ 75]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_468.
+[2022.02.07-06.22.04:311][ 77]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_469.
+[2022.02.07-06.22.04:320][ 78]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_470.
+[2022.02.07-06.22.04:339][ 80]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_471.
+[2022.02.07-06.22.04:349][ 81]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_472.
+[2022.02.07-06.22.04:368][ 83]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_473.
+[2022.02.07-06.22.04:378][ 84]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_474.
+[2022.02.07-06.22.04:397][ 86]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_475.
+[2022.02.07-06.22.04:407][ 87]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_476.
+[2022.02.07-06.22.04:425][ 89]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_477.
+[2022.02.07-06.22.04:435][ 90]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_478.
+[2022.02.07-06.22.04:453][ 92]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_479.
+[2022.02.07-06.22.04:463][ 93]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_480.
+[2022.02.07-06.22.04:481][ 95]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_481.
+[2022.02.07-06.22.04:491][ 96]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_482.
+[2022.02.07-06.22.04:511][ 98]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_483.
+[2022.02.07-06.22.04:521][ 99]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_484.
+[2022.02.07-06.22.04:530][100]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_485.
+[2022.02.07-06.22.04:530][100]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_486.
+[2022.02.07-06.22.04:548][100]LogUMG: Error: Widget Class W_Button_C - Running Initialize On Archetype, W_Button_487.
+[2022.02.07-06.22.35:574][495]BlueprintLog: New page: Compile W_MainMenu
+[2022.02.07-06.22.35:599][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.02.07-06.22.35:976][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.22.35:981][521]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu57F782A94BCFCDA9B5116BBA22A040BB.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.22.35:993][521]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.22.35:993][521]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.22.47:509][ 44]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.22.47:509][ 44]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.23.04:623][498]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.23.04:623][498]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.07-06.23.22:557][137]BlueprintLog: New page: Compile W_MainMenu
+[2022.02.07-06.23.22:588][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.02.07-06.23.23:193][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.23.23:198][185]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu9750642347AC4FF7A795369857E7FAC7.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.23.23:210][185]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.23.23:210][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.23.51:818][964]BlueprintLog: New page: Compile W_MainMenu
+[2022.02.07-06.23.51:851][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.02.07-06.23.52:210][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.23.52:215][989]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu198F33AC4048DFA8FB39B58829232FC5.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.23.52:227][989]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.23.52:228][989]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.24.20:320][114]BlueprintLog: New page: Compile W_Button
+[2022.02.07-06.24.20:383][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.02.07-06.24.20:711][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_Button" FILE="E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset" SILENT=true
+[2022.02.07-06.24.20:719][145]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_ButtonF2A809C04A31BD04CBD0F197CF93E51B.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_Button.uasset'
+[2022.02.07-06.24.20:733][145]AssetCheck: New page: Asset Save: W_Button
+[2022.02.07-06.24.20:733][145]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_Button.W_Button
+[2022.02.07-06.24.41:957][271]BlueprintLog: New page: Compile W_MainMenu
+[2022.02.07-06.24.41:981][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.02.07-06.24.42:446][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.24.42:453][317]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu9154A0F44AD01B3E227E8CB620922337.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.24.42:468][317]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.24.42:468][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.24.59:447][272]BlueprintLog: New page: Compile W_MainMenu
+[2022.02.07-06.24.59:481][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.02.07-06.25.00:262][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset" SILENT=true
+[2022.02.07-06.25.00:270][356]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/W_MainMenu44E981DA4A851CF294D28CB78A4D6377.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/W_MainMenu.uasset'
+[2022.02.07-06.25.00:283][356]AssetCheck: New page: Asset Save: W_MainMenu
+[2022.02.07-06.25.00:283][356]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/W_MainMenu.W_MainMenu
+[2022.02.07-06.25.21:064][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.02.07-06.25.24:228][948]LogContentBrowser: Attempting asset rename: BP_ThirdPersonGameMode_2 -> BP_ThirdPersonGameMode_2
+[2022.02.07-06.25.28:815][492]LogContentBrowser: Attempting asset rename: BP_ThirdPersonGameMode_2 -> BP_ThirdPersonGameMode_2
+[2022.02.07-06.25.36:478][406]LogContentBrowser: Attempting asset rename: BP_ThirdPersonGameMode_2 -> BP_GameMode_MainMenu
+[2022.02.07-06.25.36:495][406]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.SKEL_BP_GameMode_MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonGameMode_2.PackageMetaData'
+[2022.02.07-06.25.36:496][406]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonGameMode_2.PackageMetaData'
+[2022.02.07-06.25.36:496][406]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.SKEL_BP_GameMode_MainMenu_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonGameMode_2.PackageMetaData'
+[2022.02.07-06.25.36:513][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset" SILENT=true
+[2022.02.07-06.25.36:516][406]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/BP_GameMode_MainMenu524617E048487D102E07CFA93673BA08.tmp' to 'E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset'
+[2022.02.07-06.25.36:597][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.07-06.25.36:624][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-06.25.36:642][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.07-06.25.36:670][406]AssetCheck: New page: Asset Save: BP_GameMode_MainMenu
+[2022.02.07-06.25.36:670][406]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu
+[2022.02.07-06.25.57:379][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu
+[2022.02.07-06.26.19:385][264]BlueprintLog: New page: Compile BP_GameMode_MainMenu
+[2022.02.07-06.26.19:424][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.07-06.26.19:847][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset" SILENT=true
+[2022.02.07-06.26.19:850][304]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/BP_GameMode_MainMenu274634DA44F0F3C35BCA6A83029A9A97.tmp' to 'E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset'
+[2022.02.07-06.26.19:866][304]AssetCheck: New page: Asset Save: BP_GameMode_MainMenu
+[2022.02.07-06.26.19:866][304]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu
+[2022.02.07-06.26.59:401][696]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.07-06.27.06:221][696]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.07-06.27.06:228][696]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.07-06.27.06:239][696]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.07-06.27.12:910][485]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HUD_MainMeny
+[2022.02.07-06.27.12:915][485]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.07-06.27.17:171][991]LogContentBrowser: Attempting asset rename: BP_HUD_MainMeny -> BP_HUD_MainMenu
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.SKEL_BP_HUD_MainMenu_C:UserConstructionScript' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.SKEL_BP_HUD_MainMenu_C' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu_C' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:197][991]LogMetaData: Removing '/Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/BP_HUD_MainMeny.PackageMetaData'
+[2022.02.07-06.27.17:214][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_HUD_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/BP_HUD_MainMenu.uasset" SILENT=true
+[2022.02.07-06.27.17:218][991]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/BP_HUD_MainMenu2583B2264D1BAE7E650BF2A983575E95.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/BP_HUD_MainMenu.uasset'
+[2022.02.07-06.27.17:305][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.02.07-06.27.17:331][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.02.07-06.27.17:351][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.07-06.27.17:386][991]AssetCheck: New page: Asset Save: BP_HUD_MainMenu
+[2022.02.07-06.27.17:386][991]LogContentValidation: Display: Validating Blueprint /Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu
+[2022.02.07-06.27.18:480][120]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu
+[2022.02.07-06.27.19:113][121]LogRenderer: Reallocating scene render targets to support 1140x692 Format 9 NumSamples 1 (Frame:1).
+[2022.02.07-06.27.21:858][130]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.27.21:858][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.27.24:621][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.07-06.27.26:872][545]BlueprintLog: New page: Compile BP_GameMode_MainMenu
+[2022.02.07-06.27.26:914][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.02.07-06.27.27:231][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset" SILENT=true
+[2022.02.07-06.27.27:234][572]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/BP_GameMode_MainMenu35D620B74D1CBF29347070BBBDEEA5C1.tmp' to 'E:/UE/MultiplayerBattle/Content/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.uasset'
+[2022.02.07-06.27.27:247][572]AssetCheck: New page: Asset Save: BP_GameMode_MainMenu
+[2022.02.07-06.27.27:247][572]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu
+[2022.02.07-06.27.41:722][644]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.07-06.27.41:722][644]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.27.41:722][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.27.45:164][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/BP_HUD.BP_HUD
+[2022.02.07-06.27.51:730][576]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu
+[2022.02.07-06.27.54:023][789]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.27.54:023][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.27.54:080][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu
+[2022.02.07-06.28.00:213][343]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.07-06.28.07:844][ 67]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.07-06.28.45:425][864]BlueprintLog: New page: Compile BP_HUD_MainMenu
+[2022.02.07-06.28.45:467][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.07-06.28.45:508][864]LogSlate: Took 0.000878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.07-06.28.46:232][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_HUD_MainMenu" FILE="E:/UE/MultiplayerBattle/Content/UI/BP_HUD_MainMenu.uasset" SILENT=true
+[2022.02.07-06.28.46:239][930]LogSavePackage: Moving 'E:/UE/MultiplayerBattle/Saved/BP_HUD_MainMenu932D4CC344AA226E73B3A8842C4C0041.tmp' to 'E:/UE/MultiplayerBattle/Content/UI/BP_HUD_MainMenu.uasset'
+[2022.02.07-06.28.46:252][930]AssetCheck: New page: Asset Save: BP_HUD_MainMenu
+[2022.02.07-06.28.46:252][930]LogContentValidation: Display: Validating Blueprint /Game/UI/BP_HUD_MainMenu.BP_HUD_MainMenu
+[2022.02.07-06.28.54:405][720]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-06.28.54:458][720]LogFMOD: Default sample rate = 48000
+[2022.02.07-06.28.54:459][720]LogFMOD: System sample rate = 48000
+[2022.02.07-06.28.54:459][720]LogFMOD: Matching system sample rate 48000
+[2022.02.07-06.28.54:480][720]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.02.07-06.28.54:524][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-06.28.54:525][720]PIE: New page: PIE session: MainMenu (7 февр. 2022 г., 12:28:54)
+[2022.02.07-06.28.54:527][720]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.07-06.28.54:528][720]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.07-06.28.54:530][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.07-06.28.54:534][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003689s)
+[2022.02.07-06.28.54:535][720]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.07-06.28.54:535][720]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2022.02.07-06.28.54:535][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.005485s)
+[2022.02.07-06.28.54:559][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.02.07-06.28.54:561][720]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-06.28.54:562][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-06.28.54:562][720]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-06.28.54:562][720]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-06.28.54:567][720]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-06.28.54:567][720]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-06.28.54:582][720]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.02.07-06.28.54:582][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-06.28.54:582][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-06.28.54:582][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-06.28.54:583][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-06.28.54:583][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-06.28.54:583][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-06.28.54:598][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-06.28.54:598][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-06.28.54:598][720]LogInit: FAudioDevice initialized.
+[2022.02.07-06.28.54:598][720]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.02.07-06.28.54:610][720]LogLoad: Game class is 'BP_GameMode_MainMenu_C'
+[2022.02.07-06.28.54:611][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.02.07-09.28.54
+[2022.02.07-06.28.54:611][720]LogWorld: Bringing up level for play took: 0.000871
+[2022.02.07-06.28.54:612][720]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.02.07-06.28.54:628][720]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.02.07-06.28.54:633][720]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.07-06.28.54:633][720]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.07-06.28.54:634][720]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.07-06.28.54:634][720]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.02.07-06.28.54:634][720]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.07-06.28.54:635][720]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.02.07-06.28.54:639][720]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.07-06.28.54:639][720]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.02.07-06.28.54:639][720]PIE: Server logged in
+[2022.02.07-06.28.54:640][720]PIE: Play in editor total start time 0,229 seconds.
+[2022.02.07-06.28.54:642][720]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-06.28.54:642][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-06.28.54:642][720]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-06.28.54:642][720]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-06.28.54:648][720]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-06.28.54:648][720]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-06.28.54:662][720]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2022.02.07-06.28.54:663][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-06.28.54:663][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-06.28.54:663][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-06.28.54:665][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-06.28.54:665][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-06.28.54:665][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-06.28.54:677][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-06.28.54:677][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-06.28.54:677][720]LogInit: FAudioDevice initialized.
+[2022.02.07-06.28.54:677][720]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2022.02.07-06.28.54:731][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-06.28.54:731][720]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MainMenu
+[2022.02.07-06.28.54:732][720]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.07-06.28.54:732][720]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.07-06.28.54:733][720]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.07-06.28.54:734][720]LogNet: Game client on port 17777, rate 100000
+[2022.02.07-06.28.54:737][720]PIE: Client logged in
+[2022.02.07-06.28.54:738][720]PIE: Play in editor total start time 0,327 seconds.
+[2022.02.07-06.28.55:746][788]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55878
+[2022.02.07-06.28.55:746][788]LogHandshake: SendConnectChallenge. Timestamp: 1.347926, Cookie: 093235030098200048207071068010001154148014209212204189088254
+[2022.02.07-06.28.55:747][788]LogHandshake: SendChallengeResponse. Timestamp: 1.347926, Cookie: 093235030098200048207071068010001154148014209212204189088254
+[2022.02.07-06.28.55:756][789]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55878
+[2022.02.07-06.28.55:756][789]LogHandshake: SendChallengeAck. InCookie: 093235030098200048207071068010001154148014209212204189088254
+[2022.02.07-06.28.55:756][789]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55878
+[2022.02.07-06.28.55:757][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.07-06.28.55:757][789]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 02/07/22 09:28:55, [UNetConnection] RemoteAddr: 127.0.0.1:55878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.07-06.28.55:757][789]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.07-06.28.55:758][789]LogNetVersion: MultiplayerBattle 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3887714286)
+[2022.02.07-06.28.55:758][789]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.07-06.28.55:768][790]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MainMenu.MainMenu: Accepted
+[2022.02.07-06.28.55:769][790]LogNet: Remote platform little endian=1
+[2022.02.07-06.28.55:769][790]LogNet: This platform little endian=1
+[2022.02.07-06.28.55:769][790]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.07-06.28.55:780][791]LogNet: Login request: ?Name=DESKTOP-U4RM9Q6-F25220D14AA3B7DDB92B8889B47A7D0D userId: NULL:DESKTOP-U4RM9Q6-F25220D14AA3B7DDB92B8889B47A7D0D platform: NULL
+[2022.02.07-06.28.55:781][791]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MainMenu, Game: /Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu_C)
+[2022.02.07-06.28.55:781][791]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/UEDPIE_0_MainMenu?game=/Game/ThirdPersonBP/Blueprints/BP_GameMode_MainMenu.BP_GameMode_MainMenu_C
+[2022.02.07-06.28.55:781][791]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2022.02.07-06.28.55:782][791]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-06.28.55:782][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-06.28.55:807][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-06.28.55:834][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.02.07-06.28.55:836][791]LogLoad: Error: Previously active world /Engine/Transient.World_9 not cleaned up by garbage collection!
+[2022.02.07-06.28.55:836][791]LogLoad: Error: Once a world has become active, it cannot be reused and must be destroyed and reloaded. World referenced by:
+[2022.02.07-06.28.56:038][791]LogReferenceChain: (root) UnrealEdEngine /Engine/Transient.UnrealEdEngine_0->Trans
+[2022.02.07-06.28.56:038][791]LogReferenceChain:  TransBuffer /Engine/Transient.TransBuffer_0::AddReferencedObjects()
+[2022.02.07-06.28.56:038][791]LogReferenceChain:   World /Engine/Transient.World_9
+[2022.02.07-06.28.56:038][791]LogReferenceChain:   
+[2022.02.07-06.28.56:038][791]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.07-06.28.56:038][791]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
